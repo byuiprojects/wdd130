@@ -1,0 +1,41 @@
+header {
+    background-color: rgb(39, 26, 26);
+    color: white;
+    text-align: center;
+    padding: 10px;
+    font-size: 26px;
+    font-family: sans-serif;
+}
+
+main {
+    width: 400px;
+
+}
+
+h1 {
+    margin: 10px;
+    text-align: center;
+
+}
+
+img {
+    width: 100%;
+    height: auto;
+    box-shadow: 0 0 30px #333;
+}
+
+section {
+    margin: 20px;
+    padding: 10px;
+    border: 1px solid rgb(119, 116, 116);
+    background-color: #ddd;
+}
+
+section p {
+    margin: 10px;
+}
+
+footer {
+    font-size: 10px;
+
+}
