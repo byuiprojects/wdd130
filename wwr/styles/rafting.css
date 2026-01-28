@@ -35,6 +35,14 @@ footer {
     height: auto;
 }
 
+main img {
+    width: 100%;
+    height: auto;
+    border: 2px solid var(--primary-color);
+    padding: 8px;
+    box-shadow: 4px 4px 10px rgba(0, 0, 0, 0.3);
+}
+
 h1,
 h2 {
     font-family: var(--heading-font);
@@ -48,13 +56,4 @@ article {
     margin: 16px;
     padding: 8px;
 
-}
-
-main img {
-    width: 100%;
-    height: auto;
-    border: 2px solid var(--primary-color);
-    border: 2px solid var(--primary-color);
-    padding: 8px;
-    box-shadow: 4px 4px 10px rgba(0, 0, 0, 0.3);
 }
