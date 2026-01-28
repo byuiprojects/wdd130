@@ -11,6 +11,14 @@ main {
     max-width: 840px;
 }
 
+main img {
+    width: 300px;
+    height: auto;
+    border: 2px solid #333;
+    padding: 10px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.3);
+}
+
 nav {
     background-color: steelblue;
     padding: 10px;
