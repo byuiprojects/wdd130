@@ -1,0 +1,51 @@
+:root {
+    --primary-color: #055a05;
+    --secondary-color: #4af216;
+    --ascent1-color: #264653;
+    --ascent2-color: #e9c46a;
+    --heading-font: ;
+    --body-font: Arial, Helvetica, San-serif;
+
+}
+
+header {
+    background-color: var(--primary-color);
+    color: var(--ascent2-color);
+}
+
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body {
+    font-family: var(--body-font);
+    color: var(--ascent1-color);
+}
+
+header,
+main,
+footer {
+    width: 840px;
+    height: auto;
+}
+
+h1,
+h2 {
+    font-family: var(--heading-font);
+    color: var(--primary-color);
+}
+
+nav,
+p,
+section,
+article {
+    margin: 16px;
+    padding: 8px;
+
+}
+
+socialmedia a {
+    text-decoration: none;
+}
