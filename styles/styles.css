@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 * {
     margin: 0;
     padding: 0;
@@ -11,11 +12,21 @@ aside {
     width: 20rem;
     margin: 1rem;
     border: 1px solid rgba(0 0 0/0.2);
+=======
+main{
+    max-width: 840px;
+}
+aside{
+    width: 20rem;
+    margin: 1rem;
+    border: 1px solid(0 0 0/0.2);
+>>>>>>> 2fe28919a6af84fbb37c0feb7d6fca88c8ad12da
     padding: 1rem;
     background-color: #eee;
     color: #333;
     text-align: center;
 }
+<<<<<<< HEAD
 
 aside img {
     width: 200px;
@@ -34,5 +45,21 @@ p {
 footer {
     margin-top: 15px;
     margin-bottom: 1px #000;
+=======
+aside img{width: 200px;
+          height: auto;
+
+}
+main{
+    width: 150px;
+    height: auto;
+}
+p {
+    padding: 0;
+}
+footer{
+    margin-top: 15px;
+    border-top: 1px solid #000;
+>>>>>>> 2fe28919a6af84fbb37c0feb7d6fca88c8ad12da
     text-align: center;
 }
