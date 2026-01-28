@@ -3,14 +3,8 @@
     padding: 0;
 }
 
-main {
-    max-width: 840px;
-}
-
-aside {
-    width: 20rem;
-    margin: 1rem;
-    border: 1px solid rgba(0 0 0/0.2);
+p {
+    padding: 0;
 }
 
 main {
@@ -37,6 +31,11 @@ main img {
     height: auto;
 }
 
+main {
+    width: 150px;
+    height: auto;
+}
+
 p {
     padding: 0px;
 }
@@ -50,15 +49,6 @@ aside img {
     width: 200px;
     height: auto;
 
-}
-
-main {
-    width: 150px;
-    height: auto;
-}
-
-p {
-    padding: 0;
 }
 
 footer {
